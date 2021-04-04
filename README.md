@@ -72,14 +72,14 @@ void bricks::BrickCollision()
 
            
 ```
- - Give a collision response 
+ - Give a collision response ball direct is opposite direct
   ```ruby
 
 
     if(ballcenterX<=brickx+BRICK_WIDTH && ballcenterX>=brickx && ballcenterY<=bricky+BRICK_HEIGH && ballcenterY>=bricky)
     {
        
-        #Ball.diry *=-1;
+        Ball.diry *=-1;
                 
     }
  
