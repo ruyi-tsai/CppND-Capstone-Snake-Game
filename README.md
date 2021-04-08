@@ -86,4 +86,12 @@ void bricks::BrickCollision()
  
            
 ```
+# Rubric Points
+ - 1. This Project is help me understanding C++ structure and SDL2 control structure. I have a lot of control structures in brick.cpp include initial and 
+ -    collision detection. 
+ - 2. This project initial brick and ball position in  3 lines of function initial_brick
+ - 3. This project render in 25 lines of function Render 
+ - 4. The main control is BoardCollision(line 143) and PaddleCollision (line168).
+ - 5. I also add update function in 132 lines for make sure update brick and ball states
+ 
  
